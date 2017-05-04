@@ -9,4 +9,4 @@
 使用方法
 下载项目后，运行项目，将json拷贝进去
 
-![加载失败](https://github.com/myBamboo/jsonToClass/screen.gif)
+![加载失败](./screen.gif)
